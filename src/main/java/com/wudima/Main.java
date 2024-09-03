@@ -11,6 +11,11 @@ public class Main {
        String pass = byteArrayOutputStream.toString();
         System.out.println(pass + "\n"+pass.length());
 
+        String name = NameGenerator.getName();
+        String surname = NameGenerator.getSurname();
+
+        System.out.println(name + "\n" + surname);
+
 
 
     }

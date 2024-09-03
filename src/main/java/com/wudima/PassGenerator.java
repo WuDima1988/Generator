@@ -1,11 +1,10 @@
 package com.wudima;
 
 import java.io.ByteArrayOutputStream;
-import java.util.Objects;
 
 public class PassGenerator {
 
-    public static ByteArrayOutputStream getPassword(int length) {
+    public static ByteArrayOutputStream getPassword(int length)  {
 
         ByteArrayOutputStream is = new ByteArrayOutputStream();
 
