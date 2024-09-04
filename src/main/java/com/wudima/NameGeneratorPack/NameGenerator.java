@@ -13,18 +13,7 @@ public class NameGenerator {
     final private static  String surnamesPolFemaleFile = "/Users/wudima/Documents/IJ_Projects/Generator/src/main/resources/files/pol/female/surnamePol.txt";
 
 
-    public static void main(String[] args) throws FileNotFoundException {
 
-        //Polish name/surname Male
-        String name = getName(namesPolFemaleFile);
-        String surname = getName(surnamesPolFemaleFile);
-
-
-        System.out.println(name);
-        System.out.println(surname);
-
-
-    }
 
 
 
