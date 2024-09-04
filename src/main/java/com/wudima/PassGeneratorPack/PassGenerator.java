@@ -1,4 +1,4 @@
-package com.wudima;
+package com.wudima.PassGeneratorPack;
 
 import java.io.ByteArrayOutputStream;
 
