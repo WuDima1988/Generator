@@ -19,7 +19,7 @@ public class NameGenerator {
 
 
 
-    public static String getName(String filePath) throws FileNotFoundException {
+    public static String getName(String filePath){
 
         ArrayList <String> list = initialize(filePath);
 
